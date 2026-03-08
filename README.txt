@@ -97,16 +97,16 @@ This dashboard helps answer questions such as:
 Sales-Dashboard-Project
 │
 ├── data
-│   └── sales_dataset.csv
+│   └── synthetic_beverage_sales_raw_data.csv
 │
-├── dashboard
-│   └── sales_dashboard.pbix
+├── project
+│   └── link to prokect.txt
 │
 ├── images
-│   └── dashboard.png
+│   └── sales overview.png
 │
 ├── report
-│   └── project_report.pdf
+│   └── Bev and Co_Project_Report.doc
 │
 └── README.md
 ```
@@ -131,5 +131,6 @@ Data Analytics / Business Intelligence Project
 ---
 
 ## License
+
 
 This project is open-source and available under the MIT License.
